@@ -14,7 +14,7 @@ UPMC 2017
 | Document | Files |
 | ------ | ------ |
 | Bibliography | [thymioPYPI / PIMA_Mario_Viti_2017 / Carnet_de_bord_master_1_informatique_Mario_Viti.pdf][bibli] |
-| User manual Section V | [thymioPYPI / Robocologie_manual.pdf][man] |
+| User manual: Sec. V | [thymioPYPI / Robocologie_manual.pdf][man] |
 
 ## Source Code :
 
@@ -26,8 +26,8 @@ UPMC 2017
 | ------ | ------ |
 | FollowTAG | [thymioPYPI / OctoPY / experiments / FollowTAG.cfg][fltg] |
 
-| Validation and measurement |
-| ------ |
+| Validation and measurement | Directory |
+| ------ | ------ |
 |  validation | [thymioPYPI / PIMA_Mario_Viti_2017 / validation ][val] |
 |  validation notebook | [thymioPYPI / PIMA_Mario_Viti_2017 / validation / validations.ipynb][valnb] |
 |  tracking evaluation | [thymioPYPI / PIMA_Mario_Viti_2017 / track_evaluation ][trkval] |
